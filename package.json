@@ -1,0 +1,24 @@
+{
+  "name": "shared-link-api",
+  "version": "1.0.0",
+  "description": "a marketplace to create a sharable link for what you want to sell",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hokagedemehin/shared-link-api.git"
+  },
+  "keywords": [
+    "node",
+    "web",
+    "app"
+  ],
+  "author": "ibukun Demehin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hokagedemehin/shared-link-api/issues"
+  },
+  "homepage": "https://github.com/hokagedemehin/shared-link-api#readme"
+}
